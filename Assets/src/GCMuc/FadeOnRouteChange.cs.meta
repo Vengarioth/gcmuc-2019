@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: de913588270ba30449cc4c2c7462e018
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _spring: {fileID: 11400000, guid: 2f6b190c8dd9da240a48a6d2de754f9b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
