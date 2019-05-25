@@ -100,6 +100,13 @@ namespace ElasticUi.Animation
             _states[id] = state;
         }
 
+        public void SetVelocity(int id, float value)
+        {
+            var state = _states[id];
+            state.Velocity = value;
+            _states[id] = state;
+        }
+
         public void UpdateFloatSpring(int id, Spring spring)
         {
             var config = spring.GetConfiguration();
